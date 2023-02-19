@@ -5,7 +5,7 @@
 
 ### 📫 How to reach me:
 [<img src="https://user-images.githubusercontent.com/104472865/219957099-1e52c4dd-deb3-4370-9bb2-fa80f9bcaf15.png" width=10% height=10%>](https://www.linkedin.com/in/menna-eldeeb-a25756219)
-[<img src="https://user-images.githubusercontent.com/104472865/219957867-7def4e2d-dd34-4321-8892-2681a64b73b5.png" width=11% height=11%>](https://www.gmail.com/in/mennaaldeeb1@gmail.com)
+[<img src="https://user-images.githubusercontent.com/104472865/219957867-7def4e2d-dd34-4321-8892-2681a64b73b5.png" width=11% height=11%>](https://www.gmail.com/in/mennaaldeeb1)
 ---
 <!--
 **Menna-Eldeeb/Menna-Eldeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
