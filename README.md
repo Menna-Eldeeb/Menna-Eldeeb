@@ -4,10 +4,8 @@
 - 📚 I'm currently a Cloud Architecture Trainee at ITI
 
 ### 📫 How to reach me:
-[![linkedin](https://user-images.githubusercontent.com/104472865/219956320-0868c7df-62ca-4bfc-b4b4-fc614ce0b71f.png)
-)](https://www.linkedin.com/in/menna-eldeeb-a25756219)
-[![gmail](https://user-images.githubusercontent.com/104472865/219956181-7d0ca141-434e-4f23-9b61-b7fe416b27a6.png)
-)](mennaaldeeb1@gmail.com)
+[<img src="https://user-images.githubusercontent.com/104472865/219957099-1e52c4dd-deb3-4370-9bb2-fa80f9bcaf15.png" width=10% height=10%>](https://www.linkedin.com/in/menna-eldeeb-a25756219)
+[<img src="https://user-images.githubusercontent.com/104472865/219957256-950dd7bb-8f26-4b44-903e-60a11472fc15.png" width=6% height=3%>](mennaaldeeb1@gmail.com)
 ---
 <!--
 **Menna-Eldeeb/Menna-Eldeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
